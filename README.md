@@ -100,4 +100,3 @@ Mohamed
 yunus
 
 Ted
-Ted
